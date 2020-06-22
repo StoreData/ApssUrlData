@@ -118,11 +118,6 @@
         "appName": "Indian Flag Frame"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmitronstatus.png?alt=media&token=22cdfd9c-cdde-49b7-9d0b-86a2f1559f85",
-        "appLink": "https://play.google.com/store/apps/details?id=videostatus.music.mitronvideomaker",
-        "appName": "Mitron Video Status"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsad.png?alt=media&token=3c2424c3-25c4-4f47-b820-635a9603a264",
         "appLink": "https://play.google.com/store/apps/details?id=status.sadstatus",
         "appName": "Sad Status"
@@ -166,11 +161,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Ffriendsstatus.png?alt=media&token=f5024e84-f75b-44b6-8441-c63c8df65947",
         "appLink": "https://play.google.com/store/apps/details?id=status.friendsstatus",
         "appName": "Friends Status"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmitronmaker.png?alt=media&token=596d8236-aecd-438f-8bfe-6ec363a5ded0",
-        "appLink": "https://play.google.com/store/apps/details?id=com.mitron.videomaker",
-        "appName": "Mitron Video Maker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnewjokes.png?alt=media&token=0dee8b8b-cee0-479f-bdc9-3dcb893bc569",
