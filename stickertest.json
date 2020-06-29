@@ -1,4 +1,5 @@
-[
+{
+  "stickerInfo":[
   {"identifier": "1",
       "name": "Cuppy",
       "publisher": "Jane Doe",
@@ -95,3 +96,4 @@
       ]
 }
 ]
+}
