@@ -1,7 +1,7 @@
 {
   "stickerInfo":[
   {"identifier": "1",
-      "name": "Cuppy",
+      "name": "abc1",
       "publisher": "Jane Doe",
       "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/all-video-status-new.appspot.com/o/whatsapp%20sticker%2F1.webp?alt=media&token=744d42ec-7191-4a3a-a7d1-9e147b9de97a",
       "image_data_version":"1",
@@ -21,7 +21,7 @@
       ]
 },
 {"identifier": "2",
-      "name": "Cuppy",
+      "name": "abc2",
       "publisher": "Jane Doe",
       "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/all-video-status-new.appspot.com/o/whatsapp%20sticker%2F7.webp?alt=media&token=3578cc82-fdbc-4458-bdcb-06e8e57d92d2",
       "image_data_version":"1",
@@ -40,7 +40,7 @@
       ]
 },
 {"identifier": "3",
-      "name": "Cuppy",
+      "name": "abc3",
       "publisher": "Jane Doe",
       "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/all-video-status-new.appspot.com/o/whatsapp%20sticker%2F13.webp?alt=media&token=40c1d23b-6e8b-4054-817b-acc83b894187",
       "image_data_version":"1",
@@ -58,7 +58,7 @@
                   "https://firebasestorage.googleapis.com/v0/b/all-video-status-new.appspot.com/o/whatsapp%20sticker%2F18.webp?alt=media&token=83feeeb1-3dda-4b6f-8df7-2cbfb20e0517"
       ]
 },{"identifier": "4",
-      "name": "Cuppy",
+      "name": "abc4",
       "publisher": "Jane Doe",
       "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/all-video-status-new.appspot.com/o/whatsapp%20sticker%2F19.webp?alt=media&token=cd156281-8488-4cb5-a676-f98708cdd2fe",
       "image_data_version":"1",
@@ -77,7 +77,7 @@
       ]
 },
 {"identifier": "5",
-      "name": "Cuppy",
+      "name": "abc5",
       "publisher": "Jane Doe",
       "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/all-video-status-new.appspot.com/o/whatsapp%20sticker%2F25.webp?alt=media&token=d74fb360-facf-4e86-a533-15fab1f9e8e6",
       "image_data_version":"1",
