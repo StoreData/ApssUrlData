@@ -1,6 +1,6 @@
 [
   {
-    "AllAppsDetai" :
+    "AllAppsDetail" :
     [
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussaver.png?alt=media&token=4f93f823-eed3-4ef1-bdbf-8e5a7772325f",
@@ -31,6 +31,11 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fwasticker.png?alt=media&token=c64eeceb-c538-4200-a3dc-4fb980b976cc",
         "appLink": "https://play.google.com/store/apps/details?id=com.secure.wastickerapp",
         "appName": "Whatsapp Sticker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussticker.png?alt=media&token=fc2786bc-c249-4a05-bb37-df37d1da5dfa",
+        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.statussticker",
+        "appName": "Status Sticker for whatsapp"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayari.png?alt=media&token=51be4a4b-df8e-4c88-af0c-4f88b30ad94b",
