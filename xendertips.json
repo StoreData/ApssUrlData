@@ -12,7 +12,11 @@
         "appLink": "https://play.google.com/store/apps/details?id=shayaridp.videostatus.fullscreen",
         "appName": "Whatsapp Video Status"
       },
-	  
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
+        "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
+        "appName": "Indian Player"
+      },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
         "appLink": "https://play.google.com/store/apps/details?id=statusimages.makephotostatus",
@@ -43,11 +47,7 @@
         "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.allinonestatus",
         "appName": "Shayari"
       },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
-        "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
-        "appName": "Indian Player"
-      },
+      
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fhdplayer.png?alt=media&token=e01ab0b4-6442-4d1a-b2c5-f35cb0a59ef2",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.hdvideoplayer",
