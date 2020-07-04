@@ -23,6 +23,16 @@
         "appName": "Status Sticker for whatsapp"
       },
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
+        "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
+        "appName": "Indian Player"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianvplayer.png?alt=media&token=5098e8a1-206c-4ac7-99b2-7059651c58dc",
+        "appLink": "https://play.google.com/store/apps/details?id=statusdp.hdvideoplayer",
+        "appName": "Video Player"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstickermakerl.png?alt=media&token=4b432199-935e-40be-a1d9-3726ec8f95b2",
         "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.stickermakerapps",
         "appName": "Whatsapp Sticker Maker"
@@ -42,16 +52,7 @@
         "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.allinonestatus",
         "appName": "Shayari"
       },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
-        "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
-        "appName": "Indian Player"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fhdplayer.png?alt=media&token=e01ab0b4-6442-4d1a-b2c5-f35cb0a59ef2",
-        "appLink": "https://play.google.com/store/apps/details?id=statusdp.hdvideoplayer",
-        "appName": "Video Player"
-      },
+      
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
         "appLink": "https://play.google.com/store/apps/details?id=com.love.loveimagesdp",
