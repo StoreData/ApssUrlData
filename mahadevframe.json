@@ -12,7 +12,16 @@
         "appLink": "https://play.google.com/store/apps/details?id=shayaridp.videostatus.fullscreen",
         "appName": "Whatsapp Video Status"
       },
-	  
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
+        "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
+        "appName": "Indian Player"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianvplayer.png?alt=media&token=5098e8a1-206c-4ac7-99b2-7059651c58dc",
+        "appLink": "https://play.google.com/store/apps/details?id=statusdp.hdvideoplayer",
+        "appName": "Video Player"
+      },	  
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
         "appLink": "https://play.google.com/store/apps/details?id=statusimages.makephotostatus",
@@ -42,16 +51,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayari.png?alt=media&token=51be4a4b-df8e-4c88-af0c-4f88b30ad94b",
         "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.allinonestatus",
         "appName": "Shayari"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
-        "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
-        "appName": "Indian Player"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianvplayer.png?alt=media&token=5098e8a1-206c-4ac7-99b2-7059651c58dc",
-        "appLink": "https://play.google.com/store/apps/details?id=statusdp.hdvideoplayer",
-        "appName": "Video Player"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
