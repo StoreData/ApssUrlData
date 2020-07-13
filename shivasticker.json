@@ -7,6 +7,12 @@
         "appLink": "https://play.google.com/store/apps/details?id=com.statusdp.whatsappstatussaver",
         "appName": "Whatsapp Status Saver"
       },
+	    
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmahadevframetwo.png?alt=media&token=fc914345-2f93-430a-9e9c-588b12556d02",
+        "appLink": "https://play.google.com/store/apps/details?id=happy.shravan.photoframe.mahakal",
+        "appName": "Mahadev Photo Frame"
+      },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fvistatus.png?alt=media&token=34ffa385-12f5-4b08-b768-8e75da190b9a",
         "appLink": "https://play.google.com/store/apps/details?id=shayaridp.videostatus.fullscreen",
