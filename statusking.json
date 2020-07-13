@@ -18,6 +18,11 @@
         "appName": "Photo Pe Status likhe"
       },
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshivasticker.png?alt=media&token=bd48cadb-7366-47c1-9732-156d7e654d5e",
+        "appLink": "https://play.google.com/store/apps/details?id=com.mahadev.wasticker",
+        "appName": "Shiva Whatsapp Sticker"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
         "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
         "appName": "Indian Player"
