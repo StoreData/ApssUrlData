@@ -8,6 +8,11 @@
         "appName": "Whatsapp Status Saver"
       },
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshivasticker.png?alt=media&token=bd48cadb-7366-47c1-9732-156d7e654d5e",
+        "appLink": "https://play.google.com/store/apps/details?id=com.mahadev.wasticker",
+        "appName": "Shiva Whatsapp Sticker"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fvistatus.png?alt=media&token=34ffa385-12f5-4b08-b768-8e75da190b9a",
         "appLink": "https://play.google.com/store/apps/details?id=shayaridp.videostatus.fullscreen",
         "appName": "Whatsapp Video Status"
