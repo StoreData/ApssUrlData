@@ -54,6 +54,11 @@
         "appName": "Shayari"
       },
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flandscapvideo.png?alt=media&token=72826482-1cfe-4b94-a28f-98db3357bcf0",
+        "appLink": "https://play.google.com/store/apps/details?id=feellyrics.videostatus.landscapvideomaker",
+        "appName": "Landscape Video Status"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
         "appLink": "https://play.google.com/store/apps/details?id=com.love.loveimagesdp",
         "appName": "Love Images"
