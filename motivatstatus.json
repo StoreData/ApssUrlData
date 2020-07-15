@@ -191,6 +191,11 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovequotes.png?alt=media&token=0548ed81-881b-42a9-9704-23fccfd1b3a7",
         "appLink": "https://play.google.com/store/apps/details?id=com.lovequotes.quotesimagesstatus",
         "appName": "Love Quotes Images"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flandscapvideo.png?alt=media&token=72826482-1cfe-4b94-a28f-98db3357bcf0",
+        "appLink": "https://play.google.com/store/apps/details?id=feellyrics.videostatus.landscapvideomaker",
+        "appName": "Landscape Video Status"
       }
      
     ]
