@@ -43,12 +43,6 @@
         "appName": "Whatsapp Sticker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayari.png?alt=media&token=51be4a4b-df8e-4c88-af0c-4f88b30ad94b",
-        "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.allinonestatus",
-        "appName": "Shayari"
-      },
-      
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flandscapvideo.png?alt=media&token=72826482-1cfe-4b94-a28f-98db3357bcf0",
         "appLink": "https://play.google.com/store/apps/details?id=feellyrics.videostatus.landscapvideomaker",
         "appName": "Landscape Video Status"
@@ -99,11 +93,6 @@
         "appName": "God Sticker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovesmsl.png?alt=media&token=fa83b700-7c42-46a9-9635-957e4a82b300",
-        "appLink": "https://play.google.com/store/apps/details?id=mitronstatus.whatsappstatus.wishessms.loveshayarisms",
-        "appName": "Love SMS"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fattitudestatus.png?alt=media&token=670b83f3-e0e0-4d6b-88f3-7de74c8ea88f",
         "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
         "appName": "Attitude Status"
@@ -112,11 +101,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnaturewallpaper.png?alt=media&token=9446a62a-154e-4283-a358-021b5cd5d736",
         "appLink": "https://play.google.com/store/apps/details?id=com.freenature.hdwallpaper",
         "appName": "Nature Wallpaper"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphotoshayari.png?alt=media&token=83477f09-22d8-4dcb-a89a-691985ebed31",
-        "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.textonphoto",
-        "appName": "Photo Per Shayari"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
@@ -177,11 +161,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovestatus.png?alt=media&token=a32defe7-34d6-4cb6-b216-d04f224a4843",
         "appLink": "https://play.google.com/store/apps/details?id=status.lovestatus",
         "appName": "Love Status"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphotocollage.png?alt=media&token=1da60c80-26ec-4d0e-9b07-bfb141358f0b",
-        "appLink": "https://play.google.com/store/apps/details?id=com.pipphotogrid.photocollages",
-        "appName": "Photo Collage"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgardenwallpaper.png?alt=media&token=76dd3c7c-defd-4c25-b121-433de6febd8f",
