@@ -28,6 +28,11 @@
         "appName": "Whatsapp Sticker Maker"
       },
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
+        "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
+        "appName": "Indian Flag Frame"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars.png?alt=media&token=4def71c9-38df-422e-ac42-5fd8040c1fc7",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.calendar.photo.frame",
         "appName": "Calendar Photo Frame"
@@ -78,11 +83,6 @@
         "appName": "Baby Photo Editor"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyframe.png?alt=media&token=9f4c8bd7-4da9-4d46-8614-ea164d98fd1f",
-        "appLink": "https://play.google.com/store/apps/details?id=babymonth.complete.photo.frames",
-        "appName": "Baby Photo Frame"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodsticker.png?alt=media&token=80bc5447-1208-46d4-b070-d942aa4cd0ca",
         "appLink": "https://play.google.com/store/apps/details?id=com.ramdevinfo.godwastickerapp",
         "appName": "God Sticker"
@@ -96,11 +96,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnaturewallpaper.png?alt=media&token=9446a62a-154e-4283-a358-021b5cd5d736",
         "appLink": "https://play.google.com/store/apps/details?id=com.freenature.hdwallpaper",
         "appName": "Nature Wallpaper"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
-        "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
-        "appName": "Indian Flag Frame"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsad.png?alt=media&token=3c2424c3-25c4-4f47-b820-635a9603a264",
