@@ -8,9 +8,9 @@
         "appName": "Indian Player"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fvistatus.png?alt=media&token=34ffa385-12f5-4b08-b768-8e75da190b9a",
-        "appLink": "https://play.google.com/store/apps/details?id=shayaridp.videostatus.fullscreen",
-        "appName": "Whatsapp Video Status"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
+        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
+        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
@@ -51,11 +51,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fletters.png?alt=media&token=ccd74e28-eaf4-462f-b70d-1d270630744e",
         "appLink": "https://play.google.com/store/apps/details?id=com.wallpaper.lettertext",
         "appName": "Letter Wallpaper"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
-        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmahadevframe.png?alt=media&token=379f52b6-a3b2-4a2a-bf18-daaa95f78917",
