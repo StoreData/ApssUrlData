@@ -3,6 +3,11 @@
     "AllAppsDetail" :
     [
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
+        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
+        "appName": "Morning Sticker"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
         "appLink": "https://play.google.com/store/apps/details?id=statusimages.makephotostatus",
         "appName": "Photo Pe Status likhe"
@@ -53,11 +58,6 @@
         "appName": "Letter Wallpaper"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
-        "appName": "Morning Sticker"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmahadevframe.png?alt=media&token=379f52b6-a3b2-4a2a-bf18-daaa95f78917",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.shva.photo.frame",
         "appName": "Mahadev Frame"
@@ -81,11 +81,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyframe.png?alt=media&token=9f4c8bd7-4da9-4d46-8614-ea164d98fd1f",
         "appLink": "https://play.google.com/store/apps/details?id=babymonth.complete.photo.frames",
         "appName": "Baby Photo Frame"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodsticker.png?alt=media&token=80bc5447-1208-46d4-b070-d942aa4cd0ca",
-        "appLink": "https://play.google.com/store/apps/details?id=com.ramdevinfo.godwastickerapp",
-        "appName": "God Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fattitudestatus.png?alt=media&token=670b83f3-e0e0-4d6b-88f3-7de74c8ea88f",
