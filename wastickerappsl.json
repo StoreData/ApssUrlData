@@ -23,17 +23,12 @@
         "appName": "Photo Pe Status likhe"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussticker.png?alt=media&token=fc2786bc-c249-4a05-bb37-df37d1da5dfa",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.statussticker",
-        "appName": "Status Sticker for whatsapp"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstickermakerl.png?alt=media&token=4b432199-935e-40be-a1d9-3726ec8f95b2",
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstickermakerl21.png?alt=media&token=7314a913-1af8-4c1e-b1be-0a659b057748",
         "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.stickermakerapps",
         "appName": "Whatsapp Sticker Maker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars.png?alt=media&token=4def71c9-38df-422e-ac42-5fd8040c1fc7",
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars21.png?alt=media&token=2c156661-6928-4952-b7db-865d4f78730e",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.calendar.photo.frame",
         "appName": "Calendar Photo Frame"
       },
@@ -51,17 +46,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fletters.png?alt=media&token=ccd74e28-eaf4-462f-b70d-1d270630744e",
         "appLink": "https://play.google.com/store/apps/details?id=com.wallpaper.lettertext",
         "appName": "Letter Wallpaper"
-      },
-      
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flandscapvideo.png?alt=media&token=72826482-1cfe-4b94-a28f-98db3357bcf0",
-        "appLink": "https://play.google.com/store/apps/details?id=feellyrics.videostatus.landscapvideomaker",
-        "appName": "Landscape Video Status"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmahadevframe.png?alt=media&token=379f52b6-a3b2-4a2a-bf18-daaa95f78917",
-        "appLink": "https://play.google.com/store/apps/details?id=statusdp.shva.photo.frame",
-        "appName": "Mahadev Frame"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsadshayari.png?alt=media&token=824c9b65-dbed-4c65-be71-96b35414a631",
@@ -89,19 +73,9 @@
         "appName": "Attitude Status"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnaturewallpaper.png?alt=media&token=9446a62a-154e-4283-a358-021b5cd5d736",
-        "appLink": "https://play.google.com/store/apps/details?id=com.freenature.hdwallpaper",
-        "appName": "Nature Wallpaper"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
         "appName": "Indian Flag Frame"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsad.png?alt=media&token=3c2424c3-25c4-4f47-b820-635a9603a264",
-        "appLink": "https://play.google.com/store/apps/details?id=status.sadstatus",
-        "appName": "Sad Status"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayaristick.png?alt=media&token=c57493b6-0607-4e88-90b5-c4d60c754c54",
@@ -109,22 +83,12 @@
         "appName": "shayari Sticker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatusking.png?alt=media&token=ba670ca5-fdbb-42bd-9651-5c4af11a3e3f",
-        "appLink": "https://play.google.com/store/apps/details?id=shayari.statuskingapp",
-        "appName": "Status King"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsummerframe.png?alt=media&token=3f162c20-dc22-41b8-adb5-3edcd8884e2b",
-        "appLink": "https://play.google.com/store/apps/details?id=dailyupdatetech.summer.photo.frame",
-        "appName": "Summer Photo Frame"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodshayari.png?alt=media&token=7fae1763-76c2-42d4-bd2f-26c552ad0059",
         "appLink": "https://play.google.com/store/apps/details?id=shayari.godshayari",
         "appName": "God Shayari"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgujcal.png?alt=media&token=50636409-9c13-4804-b1e7-b3eeb0c6fb30",
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgujcal21.png?alt=media&token=4f706ee5-ad48-4bdb-aee2-a595e33d110d",
         "appLink": "https://play.google.com/store/apps/details?id=secure.newyear.calender",
         "appName": "Gujarati Calendar"
       },
