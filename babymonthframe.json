@@ -73,19 +73,9 @@
         "appName": "Attitude Status"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsad.png?alt=media&token=3c2424c3-25c4-4f47-b820-635a9603a264",
-        "appLink": "https://play.google.com/store/apps/details?id=status.sadstatus",
-        "appName": "Sad Status"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayaristick.png?alt=media&token=c57493b6-0607-4e88-90b5-c4d60c754c54",
         "appLink": "https://play.google.com/store/apps/details?id=com.securesms.shayaristickerapp",
         "appName": "shayari Sticker"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsummerframe.png?alt=media&token=3f162c20-dc22-41b8-adb5-3edcd8884e2b",
-        "appLink": "https://play.google.com/store/apps/details?id=dailyupdatetech.summer.photo.frame",
-        "appName": "Summer Photo Frame"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodshayari.png?alt=media&token=7fae1763-76c2-42d4-bd2f-26c552ad0059",
