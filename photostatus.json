@@ -68,11 +68,6 @@
         "appName": "God Sticker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fattitudestatus.png?alt=media&token=670b83f3-e0e0-4d6b-88f3-7de74c8ea88f",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
-        "appName": "Attitude Status"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
         "appName": "Indian Flag Frame"
@@ -98,34 +93,14 @@
         "appName": "Birthday Photo Frame"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Ftotokvideo.png?alt=media&token=18b184cf-1014-4ac7-ba97-b1cc7ea421d2",
-        "appLink": "https://play.google.com/store/apps/details?id=free.tuktok.videocall.freetotokhdvideocall",
-        "appName": "To Tok Video Call Guide"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Ffriendsstatus.png?alt=media&token=f5024e84-f75b-44b6-8441-c63c8df65947",
-        "appLink": "https://play.google.com/store/apps/details?id=status.friendsstatus",
-        "appName": "Friends Status"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnewjokes.png?alt=media&token=0dee8b8b-cee0-479f-bdc9-3dcb893bc569",
         "appLink": "https://play.google.com/store/apps/details?id=shayari.funny.newhindi.jokes",
         "appName": "New Hindi Jokes"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovestatus.png?alt=media&token=a32defe7-34d6-4cb6-b216-d04f224a4843",
-        "appLink": "https://play.google.com/store/apps/details?id=status.lovestatus",
-        "appName": "Love Status"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgardenwallpaper.png?alt=media&token=76dd3c7c-defd-4c25-b121-433de6febd8f",
         "appLink": "https://play.google.com/store/apps/details?id=com.hdgarden.freewallpaper",
         "appName": "Garden Wallpaper"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovequotes.png?alt=media&token=0548ed81-881b-42a9-9704-23fccfd1b3a7",
-        "appLink": "https://play.google.com/store/apps/details?id=com.lovequotes.quotesimagesstatus",
-        "appName": "Love Quotes Images"
       }
      
     ]
