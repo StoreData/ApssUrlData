@@ -86,16 +86,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodshayari.png?alt=media&token=7fae1763-76c2-42d4-bd2f-26c552ad0059",
         "appLink": "https://play.google.com/store/apps/details?id=shayari.godshayari",
         "appName": "God Shayari"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyeditor.png?alt=media&token=265089f7-d763-427a-b075-c45be25359b7",
-        "appLink": "https://play.google.com/store/apps/details?id=tootsiebaby.photoeditor",
-        "appName": "Baby Photo Editor"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnewjokes.png?alt=media&token=0dee8b8b-cee0-479f-bdc9-3dcb893bc569",
-        "appLink": "https://play.google.com/store/apps/details?id=shayari.funny.newhindi.jokes",
-        "appName": "New Hindi Jokes"
       }
      
     ]
