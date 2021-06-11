@@ -3,6 +3,11 @@
     "AllAppsDetail" :
     [
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussaver.png?alt=media&token=4f93f823-eed3-4ef1-bdbf-8e5a7772325f",
+        "appLink": "https://play.google.com/store/apps/details?id=com.statusdp.whatsappstatussaver",
+        "appName": "Whatsapp Status Saver"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
         "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
         "appName": "Morning Sticker"
@@ -56,11 +61,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Framdevpeerimage.png?alt=media&token=fc4f2e10-f7b6-4104-876e-569aa6996b4f",
         "appLink": "https://play.google.com/store/apps/details?id=com.ramdevpeer.imageandphoto",
         "appName": "Ramdev Peer Images"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyeditor.png?alt=media&token=265089f7-d763-427a-b075-c45be25359b7",
-        "appLink": "https://play.google.com/store/apps/details?id=tootsiebaby.photoeditor",
-        "appName": "Baby Photo Editor"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyframe.png?alt=media&token=9f4c8bd7-4da9-4d46-8614-ea164d98fd1f",
