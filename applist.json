@@ -3,9 +3,9 @@
     "AllAppsDetail" :
     [
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
-        "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
-        "appName": "Indian Flag Frame"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
+        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
+        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
@@ -16,11 +16,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
         "appLink": "https://play.google.com/store/apps/details?id=statusimages.makephotostatus",
         "appName": "Photo Pe Status likhe"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
-        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstickermakerl21.png?alt=media&token=7314a913-1af8-4c1e-b1be-0a659b057748",
@@ -36,6 +31,11 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars21.png?alt=media&token=2c156661-6928-4952-b7db-865d4f78730e",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.calendar.photo.frame",
         "appName": "Calendar Photo Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
+        "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
+        "appName": "Indian Flag Frame"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fwasticker.png?alt=media&token=c64eeceb-c538-4200-a3dc-4fb980b976cc",
