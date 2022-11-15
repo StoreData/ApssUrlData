@@ -3,11 +3,6 @@
     "AllAppsDetail" :
     [
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgb_version.png?alt=media&token=8c5127e0-7dd3-4036-ab38-86ff23b3d1ee",
-        "appLink": "https://play.google.com/store/apps/details?id=gbplusversion.gbversionapk",
-        "appName": "GB Version"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fquotes_creator.png?alt=media&token=a4127cc8-5472-4e31-bda2-69149dc83504",
         "appLink": "https://play.google.com/store/apps/details?id=com.textonphotos.quotescreatormaker",
         "appName": "Quotes Creator"
