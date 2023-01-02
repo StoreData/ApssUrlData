@@ -3,19 +3,9 @@
     "AllAppsDetail" :
     [
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fquotes_creator.png?alt=media&token=a4127cc8-5472-4e31-bda2-69149dc83504",
-        "appLink": "https://play.google.com/store/apps/details?id=com.textonphotos.quotescreatormaker",
-        "appName": "Quotes Creator"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
         "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
         "appName": "Morning Sticker"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
-        "appLink": "https://play.google.com/store/apps/details?id=com.love.loveimagesdp",
-        "appName": "Love Images"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
@@ -43,6 +33,11 @@
         "appName": "Whatsapp Sticker"
       },
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
+        "appLink": "https://play.google.com/store/apps/details?id=com.love.loveimagesdp",
+        "appName": "Love Images"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbirthdayframe.png?alt=media&token=874ab8a8-c297-4057-a166-43f611cfa5d6",
         "appLink": "https://play.google.com/store/apps/details?id=happy.birthday.wishes.photoframes",
         "appName": "Birthday Photo Frame"
@@ -66,11 +61,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgujcal21.png?alt=media&token=4f706ee5-ad48-4bdb-aee2-a595e33d110d",
         "appLink": "https://play.google.com/store/apps/details?id=gujarati.newyear.calender",
         "appName": "Gujarati Calendar"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayaristick.png?alt=media&token=c57493b6-0607-4e88-90b5-c4d60c754c54",
-        "appLink": "https://play.google.com/store/apps/details?id=com.securesms.shayaristickerapp",
-        "appName": "shayari Sticker"
       }
      
     ]
