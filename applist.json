@@ -13,11 +13,6 @@
         "appName": "Photo Pe Status likhe"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2F2023%2Ftrue_love_shayari_logo.png?alt=media&token=6b760312-182b-4751-8ad1-275e063047b0",
-        "appLink": "https://play.google.com/store/apps/details?id=in.hindi.shayari",
-        "appName": "Love Shayari"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyframe.png?alt=media&token=9f4c8bd7-4da9-4d46-8614-ea164d98fd1f",
         "appLink": "https://play.google.com/store/apps/details?id=babymonth.complete.photo.frames",
         "appName": "Baby Photo Frame"
@@ -28,9 +23,9 @@
         "appName": "Calendar Photo Frame"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2F2023%2Fgb_version_logo.png?alt=media&token=73853cd8-c00e-46c3-8c90-6dc9e003d8f6",
-        "appLink": "https://play.google.com/store/apps/details?id=com.videostatussaver.statussaverwhats",
-        "appName": "GB Version"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbirthdayframe.png?alt=media&token=874ab8a8-c297-4057-a166-43f611cfa5d6",
+        "appLink": "https://play.google.com/store/apps/details?id=happy.birthday.wishes.photoframes",
+        "appName": "Birthday Photo Frame"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
@@ -53,14 +48,14 @@
         "appName": "Love Images"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbirthdayframe.png?alt=media&token=874ab8a8-c297-4057-a166-43f611cfa5d6",
-        "appLink": "https://play.google.com/store/apps/details?id=happy.birthday.wishes.photoframes",
-        "appName": "Birthday Photo Frame"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
         "appLink": "https://play.google.com/store/apps/details?id=swadesi_indian.indianmusicplayer",
         "appName": "Indian Player"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2F2023%2Ftrue_love_shayari_logo.png?alt=media&token=6b760312-182b-4751-8ad1-275e063047b0",
+        "appLink": "https://play.google.com/store/apps/details?id=in.hindi.shayari",
+        "appName": "Love Shayari"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2F2023%2Fletter_wallpaper_logo.png?alt=media&token=703d06d9-1ba5-4561-ab12-d7e04f3730e2",
