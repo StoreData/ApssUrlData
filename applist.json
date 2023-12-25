@@ -3,9 +3,9 @@
     "AllAppsDetail" :
     [
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
-        "appName": "Morning Sticker"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Femojisticker.png?alt=media&token=d071c013-0614-4a9f-b2a8-485978400d0f",
+        "appLink": "https://play.google.com/store/apps/details?id=com.stickersemoji.wastickersbigemoji",
+        "appName": "Stickers and Emoji"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2F2023%2Fphoto_status_logo.png?alt=media&token=c9b470d8-ae27-40d5-9777-58470713dbee",
@@ -26,6 +26,11 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbirthdayframe.png?alt=media&token=874ab8a8-c297-4057-a166-43f611cfa5d6",
         "appLink": "https://play.google.com/store/apps/details?id=happy.birthday.wishes.photoframes",
         "appName": "Birthday Photo Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
+        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
+        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
