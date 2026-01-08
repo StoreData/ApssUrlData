@@ -20,7 +20,7 @@
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2F2026%2Fbirthday.webp?alt=media&token=e02fb17d-adda-46a5-812e-e5a1dc96de5f",
-        "appLink": "happybirthday.aibirthdaycake.aibirthdayphoto.frame",
+        "appLink": "https://play.google.com/store/apps/details?id=happybirthday.aibirthdaycake.aibirthdayphoto.frame",
         "appName": "Birthday Photo Frames"
       },
       {
@@ -79,3 +79,4 @@
 
 
 ]
+
